@@ -25,8 +25,6 @@ SICARD :- Trouver un nouvel exemple (pertinent qui se référence à un bug impo
                                 /==================/
                                 
 SICARD :- Ecrire la procédure d'installation de C-Unit sur un environnement Linux (Ubuntu).
-BOULLE :- Corriger la faute d'orthographe dans le titre du powerpoint. 
-SICARD :- Présentation d'une utilisation par un exemple.
 - Expliquer le "prototype minimal" de test (avec cleanUp_registry() etc).
 
 
@@ -64,15 +62,14 @@ SICARD :- Présentation d'une utilisation par un exemple.
 
 SICARD :- Mettre en page notre hébergement sur GitHub du projet.
 SICARD :- Définir un nouveau diagramme de GANTT.
-SICARD :- Définir par interval de temps le travail qui a été effectué et créer les dossiers.
-SICARD :- Définir un espace PartieOutil qui définit les configurations machines de chacuns
+GROUPE :- Définir un espace PartieOutil qui définit les configurations machines de chacuns
                                      ainsi que les outils qui ont permis le déroulement du projet
                                      ( outil de planification, éditeur de texte, compilateur...).
 - Préparer la feuille de la prochaine réunion.
 - Définir les binômes de travails sur la partie 3 et 4 afin de paralléliser le travail.
 
 - Intégrer ces informations dans le Plan Projet.
-SICARD :- Découper en Réunion Gestion & Réunion Projet.
+
 
 
 
@@ -88,3 +85,4 @@ DONE - SICARD :- Scanner une copie des comptes rendus de réunions.  (20/15/2015
 DONE - SICARD :- Mettre ces comptes rendus sous format.pdf.	    (20/15/2015)
 DONE - SICARD :- Mettre sous format .pdf ce même fichier.	    (20/15/2015)
 DONE - SICARD :- Mettre sous format .pdf la synthèse. 		    (20/15/2015)
+DONE - SICARD :- Présentation d'une utilisation par un exemple.	    (20/15/2015)
