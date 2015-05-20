@@ -4,22 +4,27 @@ Autheur : Sicard Samuel (ameziel)
 Sujet : Projet de Tests unitaires en langage C
 Notions : Test Driven Development / Agile Methods / eXtreme Programming
 
+Consigne : Préfixer chaque tâche par son Nom et rajouter "-DONE" lorsque celle-ci a été correctement effectué. La
+		placer ensuite du côté "TALK-DONE"
 
-Consigne : Préfixer chaque tâche par son Nom et rajouter "-DONE" lorsque celle-ci a été correctement effectué.
-
-
+				------------------------
                                      List of tasks
-                
+                		------------------------
+************	                		
 Technique :
-
+************			
+				/==================/
                                      Partie 1 :
-
+				/==================/
 SICARD :- Mettre sous format .pdf ce même fichier.
 SICARD :- Mettre sous format .pdf la synthèse.
 SICARD :- Trouver un nouvel exemple (pertinent qui se référence à un bug important, windows etc) pour illustrer
                                      le principe Test Driven Development.
 
+				/==================/
                                      Partie 2 :
+                                /==================/
+                                
 SICARD :- Ecrire la procédure d'installation de C-Unit sur un environnement Linux (Ubuntu).
 BOULLE :- Corriger la faute d'orthographe dans le titre du powerpoint. 
 SICARD :- Présentation d'une utilisation par un exemple.
@@ -29,8 +34,10 @@ SICARD :- Présentation d'une utilisation par un exemple.
 ---- A insérer partie 1 ou 2 une analyse et compte rendus de l'intérêt du TDD par rapport à l'exemple 
 ---- de toMin, qui illustre que par cette méthodologie nous avons éviter la redondance de code.
 
-
+				/==================/
                                      Partie 3 :
+                                /==================/
+                                
 - Rechercher sur les ressources données les tests possibles sur C-Unit afin de prendre.
     en compte les tests possibles sur les fonctions à écrire.
 - Compléter avec exemple et justification (chaque membre du groupe) avec d'autres tests.
@@ -40,9 +47,9 @@ SICARD :- Présentation d'une utilisation par un exemple.
 	Catch
 	Cpnch
 	Catnch
-	
-									Partie 4 :
-									
+				/==================/
+				     Partie 4 :
+				/==================/					
 	(Note 1 : affecter le binôme qui s'occupera de Cpnch & Catnch de la partie 3 sera celui de la partie 4 )
 	(Note 2 : même chose pour le binôme sur " str5cpy / str5cat " qui ne concerne ici que la partie 4      )
 	
@@ -52,11 +59,10 @@ SICARD :- Présentation d'une utilisation par un exemple.
  		* str5cpy / str5cat
                                      
     
+************
+  Projet :
+************			
 
-                                     Projet :
-
-SICARD :- Scanner une copie des comptes rendus de réunions.
-SICARD :- Mettre ces comptes rendus sous format.pdf.
 SICARD :- Mettre en page notre hébergement sur GitHub du projet.
 SICARD :- Définir un nouveau diagramme de GANTT.
 SICARD :- Définir par interval de temps le travail qui a été effectué et créer les dossiers.
@@ -74,4 +80,11 @@ SICARD :- Découper en Réunion Gestion & Réunion Projet.
 Général :
 
  GROUPE :- Faire un compte rendus de l'expérience tiré de ce projet.
+ 
+ 
+ 				/==================/
+ 				     TASK-DONE : 
+ 				/==================/
+DONE - SICARD :- Scanner une copie des comptes rendus de réunions.  (20/15/2015)
+DONE - SICARD :- Mettre ces comptes rendus sous format.pdf.	    (20/15/2015)
     
