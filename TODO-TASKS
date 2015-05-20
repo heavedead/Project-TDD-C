@@ -1,0 +1,53 @@
+Date de création : 20 mai 2015
+Autheur : Sicard Samuel (ameziel)
+
+Sujet : Projet de Tests unitaires en langage C
+Notions : Test Driven Development / Agile Methods / eXtreme Programming
+
+
+                                     List of tasks
+                
+Technique :
+
+Partie 1 :
+
+- Mettre sous format .pdf ce même fichier.
+- Mettre sous format .pdf la synthèse 
+- Trouver un nouvel exemple (pertinent qui se référence à un bug important, windows etc) pour illustrer
+        le principe Test Driven Development.
+
+Partie 2 :
+- Ecrire la procédure d'installation de C-Unit sur un environnement Linux (Ubuntu)
+- Corriger la faute d'orthographe dans le titre du powerpoint. 
+- Présentation d'une utilisation par un exemple 
+- Expliquer le "prototype minimal" de test (avec cleanUp_registry() etc).
+
+
+---- A insérer partie 1 ou 2 une analyse et compte rendus de l'intérêt du TDD par rapport à l'exemple 
+---- de toMin, qui illustre que par cette méthodologie nous avons éviter la redondance de code.
+
+
+Partie 3 :
+- Rechercher sur les ressources données les tests possibles sur C-Unit afin de prendre
+    en compte les tests possibles sur les fonctions à écrire.
+- Compléter avec exemple et justification (chaque membre du groupe) avec d'autres tests
+    
+
+Projet :
+
+- Scanner une copie des comptes rendus de réunions.
+- Mettre ces comptes rendus sous format.pdf. (ainsi que les écrires de manières
+- Définir un nouveau diagramme de GANTT.
+- Définir par interval de temps le travail qui a été effectué et créer les dossiers.
+- Définir un espace PartieOutil qui définit les configurations machines de chacuns
+        ainsi que les outils qui ont permis le déroulement du projet
+        ( outil de planification, éditeur de texte, compilateur...)
+- Préparer la feuille de la prochaine réunion.
+- Définir les binômes de travails sur la partie 3 et 4 afin de paralléliser le travail
+
+
+
+Général :
+
+ - Faire un compte rendus de l'expérience tiré de ce projet.
+    
