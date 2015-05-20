@@ -15,14 +15,14 @@ Technique :
 Partie 1 :
 
 - Mettre sous format .pdf ce même fichier.
-- Mettre sous format .pdf la synthèse 
+- Mettre sous format .pdf la synthèse.
 - Trouver un nouvel exemple (pertinent qui se référence à un bug important, windows etc) pour illustrer
         le principe Test Driven Development.
 
 Partie 2 :
-- Ecrire la procédure d'installation de C-Unit sur un environnement Linux (Ubuntu)
+- Ecrire la procédure d'installation de C-Unit sur un environnement Linux (Ubuntu).
 - Corriger la faute d'orthographe dans le titre du powerpoint. 
-- Présentation d'une utilisation par un exemple 
+- Présentation d'une utilisation par un exemple.
 - Expliquer le "prototype minimal" de test (avec cleanUp_registry() etc).
 
 
@@ -31,9 +31,9 @@ Partie 2 :
 
 
 Partie 3 :
-- Rechercher sur les ressources données les tests possibles sur C-Unit afin de prendre
+- Rechercher sur les ressources données les tests possibles sur C-Unit afin de prendre.
     en compte les tests possibles sur les fonctions à écrire.
-- Compléter avec exemple et justification (chaque membre du groupe) avec d'autres tests
+- Compléter avec exemple et justification (chaque membre du groupe) avec d'autres tests.
     
 
 Projet :
@@ -45,9 +45,12 @@ Projet :
 - Définir par interval de temps le travail qui a été effectué et créer les dossiers.
 - Définir un espace PartieOutil qui définit les configurations machines de chacuns
         ainsi que les outils qui ont permis le déroulement du projet
-        ( outil de planification, éditeur de texte, compilateur...)
+        ( outil de planification, éditeur de texte, compilateur...).
 - Préparer la feuille de la prochaine réunion.
-- Définir les binômes de travails sur la partie 3 et 4 afin de paralléliser le travail
+- Définir les binômes de travails sur la partie 3 et 4 afin de paralléliser le travail.
+
+- Intégrer ces informations dans le Plan Projet.
+- Découper en Réunion Gestion & Réunion Projet.
 
 
 
