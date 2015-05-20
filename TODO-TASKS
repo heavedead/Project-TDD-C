@@ -5,6 +5,9 @@ Sujet : Projet de Tests unitaires en langage C
 Notions : Test Driven Development / Agile Methods / eXtreme Programming
 
 
+Consigne : Préfixer chaque tâche par son Nom et rajouter -DONE lorsque celle-ci a été correctement effectué.
+
+
                                      List of tasks
                 
 Technique :
@@ -36,7 +39,8 @@ Partie 3 :
 Projet :
 
 - Scanner une copie des comptes rendus de réunions.
-- Mettre ces comptes rendus sous format.pdf. (ainsi que les écrires de manières
+- Mettre ces comptes rendus sous format.pdf.
+- Mettre en page notre hébergement sur GitHub du projet.
 - Définir un nouveau diagramme de GANTT.
 - Définir par interval de temps le travail qui a été effectué et créer les dossiers.
 - Définir un espace PartieOutil qui définit les configurations machines de chacuns
