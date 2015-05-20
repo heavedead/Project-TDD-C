@@ -16,8 +16,7 @@ Technique :
 				/==================/
                                      Partie 1 :
 				/==================/
-SICARD :- Mettre sous format .pdf ce même fichier.
-SICARD :- Mettre sous format .pdf la synthèse.
+
 SICARD :- Trouver un nouvel exemple (pertinent qui se référence à un bug important, windows etc) pour illustrer
                                      le principe Test Driven Development.
 
@@ -87,4 +86,5 @@ Général :
  				/==================/
 DONE - SICARD :- Scanner une copie des comptes rendus de réunions.  (20/15/2015)
 DONE - SICARD :- Mettre ces comptes rendus sous format.pdf.	    (20/15/2015)
-    
+DONE - SICARD :- Mettre sous format .pdf ce même fichier.	    (20/15/2015)
+DONE - SICARD :- Mettre sous format .pdf la synthèse. 		    (20/15/2015)
