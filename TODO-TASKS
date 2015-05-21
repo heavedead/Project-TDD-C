@@ -35,9 +35,9 @@ SICARD :- Ecrire la procédure d'installation de C-Unit sur un environnement Lin
                                      Partie 3 :
                                 /==================/
                                 
-- Rechercher sur les ressources données les tests possibles sur C-Unit afin de prendre.
-    en compte les tests possibles sur les fonctions à écrire.
-- Compléter avec exemple et justification (chaque membre du groupe) avec d'autres tests.
+GROUPE - Rechercher sur les ressources données les tests possibles sur C-Unit afin de prendre.
+    		en compte les tests possibles sur les fonctions à écrire.
+GROUPE - Compléter avec exemple et justification (chaque membre du groupe) avec d'autres tests.
 
 - Au vue des tests etablis écrire quatre fonctions :
 	Cpch
@@ -65,8 +65,8 @@ SICARD :- Définir un nouveau diagramme de GANTT.
 GROUPE :- Définir un espace PartieOutil qui définit les configurations machines de chacuns
                                      ainsi que les outils qui ont permis le déroulement du projet
                                      ( outil de planification, éditeur de texte, compilateur...).
-- Préparer la feuille de la prochaine réunion.
-- Définir les binômes de travails sur la partie 3 et 4 afin de paralléliser le travail.
+BRENGUES - Préparer la feuille de la prochaine réunion.
+BRENGUES - Définir les binômes de travails sur la partie 3 et 4 afin de paralléliser le travail.
 
 - Intégrer ces informations dans le Plan Projet.
 
