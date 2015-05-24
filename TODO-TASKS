@@ -35,15 +35,7 @@ SICARD :- Ecrire la procédure d'installation de C-Unit sur un environnement Lin
                                      Partie 3 :
                                 /==================/
                                 
-GROUPE - Rechercher sur les ressources données les tests possibles sur C-Unit afin de prendre.
-    		en compte les tests possibles sur les fonctions à écrire.
-GROUPE - Compléter avec exemple et justification (chaque membre du groupe) avec d'autres tests.
 
-- Au vue des tests etablis écrire quatre fonctions :
-	Cpch
-	Catch
-	Cpnch
-	Catnch
 				/==================/
 				     Partie 4 :
 				/==================/					
@@ -86,3 +78,13 @@ DONE - SICARD :- Mettre ces comptes rendus sous format.pdf.	    (20/15/2015)
 DONE - SICARD :- Mettre sous format .pdf ce même fichier.	    (20/15/2015)
 DONE - SICARD :- Mettre sous format .pdf la synthèse. 		    (20/15/2015)
 DONE - SICARD :- Présentation d'une utilisation par un exemple.	    (20/15/2015)
+
+DONE - SICARD -GROUPE - Rechercher sur les ressources données les tests possibles sur C-Unit afin de prendre. (24/05/2015)
+    		en compte les tests possibles sur les fonctions à écrire.
+DONE - SICARD -GROUPE - Compléter avec exemple et justification (chaque membre du groupe) avec d'autres tests.(24/05/2015)
+
+		- Au vue des tests etablis écrire quatre fonctions :
+			Cpch
+			Catch
+			Cpnch
+			Catnch
