@@ -1,0 +1,76 @@
+=============================================================================================================================
+CU_initialize_registry
+=============================================================================================================================
+
+Le registre de test CUnit doit être initialisé avant toute utilisation, pour cela on doit appeler CU_initialize_registry()
+avant d’appeler toute autre fonction.
+Si on ne le fait pas, cela entrainera probablement un crash. Les déclarations de suites s’inscriront dans celui-ci. 
+
+Un code d’état d’erreur est renvoyé : 
+
+	- CUE_SUCCESS		Initialisation réussie
+	- CUE_NOMEMORY		Allocation de mémoire échouée.
+
+
+
+
+=============================================================================================================================
+CU_pSuite  CU_add_suite(const char* strName, CU_InitializeFunc pInit, CU_CleanupFunc pClean)
+=============================================================================================================================
+
+Permet de créer une collection de tests (suite)
+
+Cette instruction prend en argument un nom, et deux fonctions facultatives : une fonction d’initialisation, et une fonction
+de nettoyage.
+This allows the suite to set up and tear down temporary fixtures to support running the tests. Ces fonctions ne prennent pas
+d’arguments et devrait retourner si elles se sont déroulées correctement.
+
+Un pointeur vers la nouvelle suite est retourné, ce qui permettra d’ajouter des tests à la suite. Si une erreur survient lors
+de la création de la suite, NULL est renvoyé ainsi que un des codes d'erreurs suivants:
+
+
+	- CUE_SUCCESS		La création de la suite a réussie.
+	- CUE_NOREGISTRY 	le registre n'a pas été initialisé.
+	- CUE_NO_SUITENAME 	strName est NULL.
+	- CUE_DUP_SUITE 	le nom de la suite n’est pas unique.
+	- CUE_NOMEMORY 		Allocation de mémoire échouée.
+
+
+
+
+=============================================================================================================================
+CU_pTest  CU_add_test(CU_pSuite pSuite, const char* strName, CU_TestFunc pTestFunc)
+=============================================================================================================================
+
+Créé un nouveau test avec un nom et le test spécifié et l’enregistre dans la suite spécifiée (et créée précédemment).
+La fonction de test ne peut être NULL.
+
+Un pointeur vers le nouveau test est retourné. Si une erreur survient lors de la création du test, NULL est renvoyé ainsi que
+un des codes d'erreurs suivants:
+
+	- CUE_SUCCESS 		La création du test a réussie.
+	- CUE_NOSUITE 		la suite spécifiée est NULL ou invalide.
+	- CUE_NO_TESTNAME 	strName est NULL.
+	- CUE_NO_TEST 		pTestFunc est NULL ou invalide.
+	- CUE_DUP_TEST 		le nom du test n’est pas unique.
+	- CUE_NOMEMORY 		Allocation de mémoire échouée.
+
+
+
+
+=============================================================================================================================
+CU_basic_run_tests();
+=============================================================================================================================
+
+Exécute tous les tests dans toutes les suites enregistrés. Retourne le 1er code d'erreur survenant au cours de l'essai.
+Le type de sortie est contrôlée par le mode d'exécution actuel, qui peut être réglé en utilisant CU_basic_set_mode()*.
+
+
+
+
+=============================================================================================================================
+* permet de définir le mode de fonctionnement par défaut sur le contrôle de la sortie lors de séries de tests. Les choix sont:
+	- CU_BRM_NORMAL 	Les échecs et le résumé de l'exécution.
+	- CU_BRM_SILENT 	Pas de sortie à part les messages d'erreur.
+	- CU_BRM_VERBOSE 	Tous les détails d'exécution.
+
