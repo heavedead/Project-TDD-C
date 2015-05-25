@@ -74,3 +74,8 @@ Le type de sortie est contrôlée par le mode d'exécution actuel, qui peut êtr
 	- CU_BRM_SILENT 	Pas de sortie à part les messages d'erreur.
 	- CU_BRM_VERBOSE 	Tous les détails d'exécution.
 
+
+
+
+- Sources :
+http://cunit.sourceforge.net/doc/
