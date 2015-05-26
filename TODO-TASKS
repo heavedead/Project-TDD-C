@@ -57,7 +57,7 @@ SICARD :- Définir un nouveau diagramme de GANTT.
 GROUPE :- Définir un espace PartieOutil qui définit les configurations machines de chacuns
                                      ainsi que les outils qui ont permis le déroulement du projet
                                      ( outil de planification, éditeur de texte, compilateur...).
-BRENGUES - Préparer la feuille de la prochaine réunion.
+DONE - BRENGUES - Préparer la feuille de la prochaine réunion.
 BRENGUES - Définir les binômes de travails sur la partie 3 et 4 afin de paralléliser le travail.
 
 - Intégrer ces informations dans le Plan Projet.
