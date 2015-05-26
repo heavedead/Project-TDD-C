@@ -24,7 +24,7 @@ SICARD :- Trouver un nouvel exemple (pertinent qui se référence à un bug impo
                                      Partie 2 :
                                 /==================/
                                 
-SICARD :- Ecrire la procédure d'installation de C-Unit sur un environnement Linux (Ubuntu).
+
 - Expliquer le "prototype minimal" de test (avec cleanUp_registry() etc).
 
 
@@ -57,7 +57,7 @@ SICARD :- Définir un nouveau diagramme de GANTT.
 GROUPE :- Définir un espace PartieOutil qui définit les configurations machines de chacuns
                                      ainsi que les outils qui ont permis le déroulement du projet
                                      ( outil de planification, éditeur de texte, compilateur...).
-DONE - BRENGUES - Préparer la feuille de la prochaine réunion.
+
 BRENGUES - Définir les binômes de travails sur la partie 3 et 4 afin de paralléliser le travail.
 
 - Intégrer ces informations dans le Plan Projet.
@@ -88,3 +88,6 @@ DONE - SICARD -GROUPE - Compléter avec exemple et justification (chaque membre 
 			Catch
 			Cpnch
 			Catnch
+
+DONE - SICARD :- Ecrire la procédure d'installation de C-Unit sur un environnement Linux (Ubuntu). (26/05/2015)
+DONE - BRENGUES - Préparer la feuille de la prochaine réunion.
