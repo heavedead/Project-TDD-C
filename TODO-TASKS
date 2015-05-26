@@ -28,8 +28,7 @@ SICARD :- Trouver un nouvel exemple (pertinent qui se référence à un bug impo
 - Expliquer le "prototype minimal" de test (avec cleanUp_registry() etc).
 
 
----- A insérer partie 1 ou 2 une analyse et compte rendus de l'intérêt du TDD par rapport à l'exemple 
----- de toMin, qui illustre que par cette méthodologie nous avons éviter la redondance de code.
+
 
 				/==================/
                                      Partie 3 :
@@ -91,3 +90,6 @@ DONE - SICARD -GROUPE - Compléter avec exemple et justification (chaque membre 
 
 DONE - SICARD :- Ecrire la procédure d'installation de C-Unit sur un environnement Linux (Ubuntu). (26/05/2015)
 DONE - BRENGUES - Préparer la feuille de la prochaine réunion.
+
+DONE - SICARD  A insérer partie 1 ou 2 une analyse et compte rendus de l'intérêt du TDD par rapport à l'exemple 
+		---- de toMin, qui illustre que par cette méthodologie nous avons éviter la redondance de code.
