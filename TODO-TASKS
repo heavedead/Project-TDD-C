@@ -45,6 +45,8 @@ SICARD :- Trouver un nouvel exemple (pertinent qui se référence à un bug impo
  - Comparaison des avantages/inconvénients :
  		* Cpnch   /  Catnch
  		* str5cpy / str5cat
+ 		
+ - Rappeler les particularités des tests avec la propriété de strlen.
                                      
     
 ************
